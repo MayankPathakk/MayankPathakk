@@ -1,3 +1,4 @@
+![logo](https://github.com/MayankPathakk/MayankPathakk/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mayank Pathak</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
